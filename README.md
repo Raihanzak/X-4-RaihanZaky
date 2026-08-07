@@ -1,2 +1,2 @@
 contributors
-salmaa khoirun nisaa'
+1. salmaa khoirun nisaa'
